@@ -1,0 +1,7 @@
+﻿  160511.cpp
+160511.obj : error LNK2019: "void __cdecl MAX2(char (*)[20],int)" (?MAX2@@YAXPAY0BE@DH@Z) 외부 기호(참조 위치: "void __cdecl COLUMN(char (*)[20])" (?COLUMN@@YAXPAY0BE@D@Z) 함수)에서 확인하지 못했습니다.
+160511.obj : error LNK2019: "void __cdecl MAX3(char (*)[20],int)" (?MAX3@@YAXPAY0BE@DH@Z) 외부 기호(참조 위치: "void __cdecl DIA(char (*)[20],int,int)" (?DIA@@YAXPAY0BE@DHH@Z) 함수)에서 확인하지 못했습니다.
+160511.obj : error LNK2019: "void __cdecl MAX4(char (*)[20],int)" (?MAX4@@YAXPAY0BE@DH@Z) 외부 기호(참조 위치: "void __cdecl DIA(char (*)[20],int,int)" (?DIA@@YAXPAY0BE@DHH@Z) 함수)에서 확인하지 못했습니다.
+160511.obj : error LNK2019: "void __cdecl MAX5(char (*)[20],int)" (?MAX5@@YAXPAY0BE@DH@Z) 외부 기호(참조 위치: "void __cdecl DIA(char (*)[20],int,int)" (?DIA@@YAXPAY0BE@DHH@Z) 함수)에서 확인하지 못했습니다.
+160511.obj : error LNK2019: "void __cdecl MAX6(char (*)[20],int)" (?MAX6@@YAXPAY0BE@DH@Z) 외부 기호(참조 위치: "void __cdecl DIA(char (*)[20],int,int)" (?DIA@@YAXPAY0BE@DHH@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\dpthf\Documents\Visual Studio 2017\Projects\자료구조\Debug\자료구조.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
